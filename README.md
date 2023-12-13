@@ -7,8 +7,8 @@ A data engineer passionate about App development :bar_chart:. I like creating ap
 	- Spotify app clone for my final proyect
 	- Development of an app for my school students
 - :bulb: I'm interested in all things data: *Big Data, App dvelopmnet, Software development, IoT*
-- 💬 Talk to me about Tennis 🎾, Memes, anything that interests me xd.
-- 🌱 I’m currently pursuing *Machine learning*.
+- 💬 Talk to me about Tennis 🎾, Memes, Músic, Videogames or Movies.
+- 🌱 I’m currently pursuing *Everything that challenges me*.
 
 ### My skills include
 
